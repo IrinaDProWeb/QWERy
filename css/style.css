@@ -762,6 +762,8 @@ margin-right: 50px;
         margin-bottom: 93px;
         padding: 25px 11px;
     }
+    .slider-body {
+        padding: 0;
 }
 
 @media (max-width: 700px) {
