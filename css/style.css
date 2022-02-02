@@ -880,11 +880,7 @@ margin-right: 50px;
     .header-top {
         margin-bottom: 150px;
     }
-    .header-content {
-        position: relative;
-    }
     .content-header-social {
-        position: absolute;
         bottom: 0;
     }
     .header-body-subtitle {
