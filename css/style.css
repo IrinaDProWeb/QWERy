@@ -858,7 +858,7 @@ margin-right: 50px;
 @media (max-width: 500px) {
    .header-top {
        flex-wrap: wrap;
-       margin-bottom: 100px;
+       margin-bottom: 50px;
    }
    .logo {
        padding-left: 120px;
@@ -899,9 +899,6 @@ margin-right: 50px;
 @media (max-width: 390px) {
     .enjoy-column-img {
         height: 250px;
-    }
-    .header-top {
-        margin-bottom: 150px;
     }
     .content-header-social {
        margin-top: 150px;
